@@ -1,16 +1,12 @@
-### Hi there 👋
+## 👋Hello World! I'm Rami.    
 
-<!--
-**rami0112/rami0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👩About me
+어플리케이션, 프론트엔드, 백엔드 모두 관심이 많으며,
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻사용언어
+![java](http://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=JAVA&logoColor=ffffff)
+![spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)
+![mysql](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
+![html5](http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
+![css3](http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
+![javascript](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000)
