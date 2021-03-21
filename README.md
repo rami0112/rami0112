@@ -2,6 +2,8 @@
 
 #### 👩About me
 어플리케이션, 프론트엔드, 백엔드 모두 관심이 많으며,
+자바기반 안드로이드 앱 개발 6개월 과정을 수료 후 
+백엔드 개발자가 되길 희망합니다.
 
 #### 💻사용언어
 ![java](http://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=JAVA&logoColor=ffffff)
